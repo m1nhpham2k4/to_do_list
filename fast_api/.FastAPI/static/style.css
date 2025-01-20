@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+label {
+    margin: 5px 0;
+}
+input, button {
+    margin-bottom: 10px;
+    padding: 8px;
+}

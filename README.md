@@ -14,3 +14,6 @@ pip install -r requirements.txt
 ```
 python main.py
 ```
+
+# Note 
+Using Postman for GET/POST/UPDATE/DELETE database
